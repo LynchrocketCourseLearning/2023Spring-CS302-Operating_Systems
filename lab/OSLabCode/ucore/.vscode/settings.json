@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "sbi.h": "c",
+        "riscv.h": "c",
+        "kdebug.h": "c",
+        "intr.h": "c",
+        "defs.h": "c",
+        "clock.h": "c",
+        "console.h": "c",
+        "kmonitor.h": "c",
+        "pmm.h": "c",
+        "stdio.h": "c",
+        "string.h": "c"
+    }
+}

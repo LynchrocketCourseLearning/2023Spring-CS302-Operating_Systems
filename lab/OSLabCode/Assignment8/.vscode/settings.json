@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "assert.h": "c",
+        "pthread.h": "c",
+        "type_traits": "c",
+        "wait.h": "c",
+        "kmalloc.h": "c",
+        "sem.h": "c"
+    }
+}
